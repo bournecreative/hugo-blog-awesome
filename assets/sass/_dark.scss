@@ -271,6 +271,12 @@
       }
     }
   }
+
+  .svg-logo {
+    .svg-logo_bracket {
+      fill: #FFF;
+    }
+  }
 }
 
 // support JS disabled environment with media query
